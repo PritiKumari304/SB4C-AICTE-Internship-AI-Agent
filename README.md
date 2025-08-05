@@ -39,5 +39,5 @@ This repository contains the project developed as part of the **Smart Bridge for
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/SB4C-AICTE-AI-Agent.git
-   cd SB4C-AICTE-AI-Agent
+   git clone https://github.com/PritiKumari304/SB4C-AICTE-Internship-AI-Agent.git
+   cd SB4C-AICTE-Internship-AI-Agent
